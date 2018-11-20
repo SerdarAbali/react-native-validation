@@ -29,4 +29,4 @@ Free to use, copy, mess with it
 
 ## Acknowledgments
 
-*Implementation taken from an on-going project, some files, paths, images might be missing.
+*Implementation taken from my own on-going project, some files, paths, images might be missing.
