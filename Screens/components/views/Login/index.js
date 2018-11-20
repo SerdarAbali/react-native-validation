@@ -51,43 +51,4 @@ const styles = StyleSheet.create({
     }
 })
 
-// class Login extends Component {
-//     constructor(props){
-//         super(props)
-
-//         this.state = {
-//             logoAnimation:false
-//         }
-//     }
-
-//     showLogin = () => {
-//         this.setState ({
-//             logoAnimation:true
-//         })
-//     }
-
-//     render (){
-//         return(
-            
-//             <ScrollView>
-//                 <View style={styles.container}>
-//                     <Logo
-//                     showLogin={this.showLogin}/>
-//                     <LoginPanel
-//                     show={this.state.logoAnimation}/>
-//                 </View>
-//             </ScrollView>
-//         )
-//     }
-// }
-
-// const styles = StyleSheet.create ({
-//     container:{
-//         flex:1,
-//         backgroundColor:'#ecf0f1',
-//         alignItems: 'center',
-//     }
-// })
-
-// export default Login
 

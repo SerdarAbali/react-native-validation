@@ -68,7 +68,7 @@ export default class LoginForm extends Component {
                 autoCapitalize={"none"}
                 keyboardType={"email-address"}
                 returnKeyType="next"
-                onSubmitEditing={()=>this.passwordInput.focus()} // hyppää salasana kenttälle kun painaa "seuraava" näppiä
+                onSubmitEditing={()=>this.passwordInput.focus()} // hyppää salasana kenttälle kun painaa "seuraava" nappia
             />
 
             <TextInput
