@@ -2,6 +2,8 @@
 
 Pure React Native implementation of form validation
 
+![compare console log with input](https://raw.githubusercontent.com/SerdarAbali/react-native-validation/master/2.png)
+
 ## Getting Started
 
 You need to have basic react-native project installed and running in order to implement this validation
