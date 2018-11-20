@@ -20,6 +20,7 @@ Project folders have to be edited accordingly. Please pay attention to structure
 ## Built With
 
 * [React Native](https://facebook.github.io/react-native/) - Mobile application development framework
+* Validation rules with Javascript
 
 
 ## License
