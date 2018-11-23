@@ -1,4 +1,4 @@
-# React Native (0.57) Validation
+# React Native (0.57) Validation Example
 
 Pure React Native implementation of form validation
 
